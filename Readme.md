@@ -1,8 +1,12 @@
 
 python真的超级超级好玩呐，不管是爬虫还是数据挖掘，真的都超级有意思。
+
 今天，来说一说python一个好玩的模块wordcloud
+
 构建词云的方法很多, 但是个人觉得python的wordcloud包功能最为强大,可以自定义图片. 
+
 官网: https://amueller.github.io/word_cloud/ 
+
 github: https://github.com/amueller/word_cloud
 
 # 例子: 
