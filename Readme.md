@@ -11,15 +11,22 @@ github: https://github.com/amueller/word_cloud
 
 # 例子: 
 
-闲着无聊，用wordcloud做了个词云标签，Jieba分词分析了一下我给木木写的日记，捂脸ing⊂(˃̶͈̀ε ˂̶͈́ ⊂ )⋯⋯
-![](https://github.com/fyuanfen/wordcloud/tree/master/image/mumu.png)
+闲着无聊，用wordcloud做了个词云标签，Jieba分词分析了一下给木木写的日记，捂脸ing⊂(˃̶͈̀ε ˂̶͈́ ⊂ )⋯⋯
+![image](http://oavk3bisu.bkt.clouddn.com/wordcloud-2.png)
 
-又顺便从网上爬了几百句英文情诗，差不多都是这些套路[表情]
+
+
+
+又顺便从网上爬了几百句英文情诗，差不多都是这些套路
+
 又是一项撩妹新技能get，可惜我木有妹子可以撩～～郁闷o(￣ヘ￣o❀)
-![](https://github.com/fyuanfen/wordcloud/tree/master/image/lovesentence.png)
+![image](http://oavk3bisu.bkt.clouddn.com/wordcloud-1.png)
 
 **字体用的是cabin-sketch.bold**
+
 **大家也可以自己来调模板和字体**
+
+
 
 # 安装
 ## 方法1
@@ -57,7 +64,7 @@ cd word_cloud-master
 
 # 源码在word.py中
 源码的运行结果就像下面这个样子
-![](https://github.com/fyuanfen/wordcloud/tree/master/image/名称.png)
+![](http://oavk3bisu.bkt.clouddn.com/wordcloud.png)
 
 
 # Reference:
