@@ -20,7 +20,7 @@ github: https://github.com/amueller/word_cloud
 又顺便从网上爬了几百句英文情诗，差不多都是这些套路
 
 又是一项撩妹新技能get，可惜我木有妹子可以撩～～郁闷o(￣ヘ￣o❀)
-![image](http://oavk3bisu.bkt.clouddn.com/wordcloud-1.png)
+![image](http://oavk3bisu.bkt.clouddn.com/w.png)
 
 **字体用的是cabin-sketch.bold**
 
@@ -64,7 +64,7 @@ cd word_cloud-master
 
 # 源码在word.py中
 源码的运行结果就像下面这个样子
-![](http://oavk3bisu.bkt.clouddn.com/wordcloud.png)
+![](http://oavk3bisu.bkt.clouddn.com/wordcloud-3.png)
 
 
 # Reference:
