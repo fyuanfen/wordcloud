@@ -1,27 +1,33 @@
 
-pythonÕæµÄ³¬¼¶³¬¼¶ºÃÍæÄÅ£¬²»¹ÜÊÇÅÀ³æ»¹ÊÇÊı¾İÍÚ¾ò£¬ÕæµÄ¶¼³¬¼¶ÓĞÒâË¼¡£
+pythonçœŸçš„è¶…çº§è¶…çº§å¥½ç©å‘ï¼Œä¸ç®¡æ˜¯çˆ¬è™«è¿˜æ˜¯æ•°æ®æŒ–æ˜ï¼ŒçœŸçš„éƒ½è¶…çº§æœ‰æ„æ€ã€‚
 
-½ñÌì£¬À´ËµÒ»ËµpythonÒ»¸öºÃÍæµÄÄ£¿éwordcloud
+ä»Šå¤©ï¼Œæ¥è¯´ä¸€è¯´pythonä¸€ä¸ªå¥½ç©çš„æ¨¡å—wordcloud
 
-¹¹½¨´ÊÔÆµÄ·½·¨ºÜ¶à, µ«ÊÇ¸öÈË¾õµÃpythonµÄwordcloud°ü¹¦ÄÜ×îÎªÇ¿´ó,¿ÉÒÔ×Ô¶¨ÒåÍ¼Æ¬. 
+æ„å»ºè¯äº‘çš„æ–¹æ³•å¾ˆå¤š, ä½†æ˜¯ä¸ªäººè§‰å¾—pythonçš„wordcloudåŒ…åŠŸèƒ½æœ€ä¸ºå¼ºå¤§,å¯ä»¥è‡ªå®šä¹‰å›¾ç‰‡. 
 
-¹ÙÍø: https://amueller.github.io/word_cloud/ 
+å®˜ç½‘: https://amueller.github.io/word_cloud/ 
 
 github: https://github.com/amueller/word_cloud
 
-# Àı×Ó: 
+# ä¾‹å­: 
 
-![´ÊÔÆ](http://oavk3bisu.bkt.clouddn.com/wordcloud.png)
+é—²ç€æ— èŠï¼Œç”¨wordcloudåšäº†ä¸ªè¯äº‘æ ‡ç­¾ï¼ŒJiebaåˆ†è¯åˆ†æäº†ä¸€ä¸‹æˆ‘ç»™æœ¨æœ¨å†™çš„æ—¥è®°ï¼Œæ‚è„¸ingâŠ‚(ËƒÌ¶Ì€ÍˆÎµ Ë‚Ì¶ÌÍˆ âŠ‚ )â‹¯â‹¯
+![](https://github.com/fyuanfen/wordcloud/tree/master/image/mumu.png)
 
-**×ÖÌåÓÃµÄÊÇcabin-sketch.bold**
+åˆé¡ºä¾¿ä»ç½‘ä¸Šçˆ¬äº†å‡ ç™¾å¥è‹±æ–‡æƒ…è¯—ï¼Œå·®ä¸å¤šéƒ½æ˜¯è¿™äº›å¥—è·¯[è¡¨æƒ…]
+åˆæ˜¯ä¸€é¡¹æ’©å¦¹æ–°æŠ€èƒ½getï¼Œå¯æƒœæˆ‘æœ¨æœ‰å¦¹å­å¯ä»¥æ’©ï½ï½éƒé—·o(ï¿£ãƒ˜ï¿£oâ€)
+![](https://github.com/fyuanfen/wordcloud/tree/master/image/lovesentence.png)
 
-# °²×°
-## ·½·¨1
+**å­—ä½“ç”¨çš„æ˜¯cabin-sketch.bold**
+**å¤§å®¶ä¹Ÿå¯ä»¥è‡ªå·±æ¥è°ƒæ¨¡æ¿å’Œå­—ä½“**
+
+# å®‰è£…
+## æ–¹æ³•1
 
 `pip install wordcloud`
 
-## ·½·¨2
-- githubÏÂÔØ²¢½âÑ¹
+## æ–¹æ³•2
+- githubä¸‹è½½å¹¶è§£å‹
 ```
 wget  https://github.com/amueller/word_cloud/archive/master.zip
 unzip master.zip
@@ -29,30 +35,30 @@ rm master.zip
 cd word_cloud-master
 ```
 
-- °²×°ÒÀÀµ°ü
+- å®‰è£…ä¾èµ–åŒ…
 
 `sudo pip install -r requirements.txt`
 
-- °²×°wordcloud
+- å®‰è£…wordcloud
 
 `python setup.py install`
 
 
-## ·½·¨Èı
+## æ–¹æ³•ä¸‰
 
-- ÏÂÔØ[.whlÎÄ¼ş](http://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud)
+- ä¸‹è½½[.whlæ–‡ä»¶](http://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud)
 
-- Ê¹ÓÃcdÃüÁî½øÈëwhlÎÄ¼şµÄÂ·¾¶
+- ä½¿ç”¨cdå‘½ä»¤è¿›å…¥whlæ–‡ä»¶çš„è·¯å¾„
 
-- ÔËĞĞÕâÌõÃüÁî£º
+- è¿è¡Œè¿™æ¡å‘½ä»¤ï¼š
 
 `python -m pip install <filename> `
 
 
-
+# æºç åœ¨word.pyä¸­
+æºç çš„è¿è¡Œç»“æœå°±åƒä¸‹é¢è¿™ä¸ªæ ·å­
+![](https://github.com/fyuanfen/wordcloud/tree/master/image/åç§°.png)
 
 
 # Reference:
-[pythonºÃÍæµÄ´ÊÔÆwordcloud](http://zyy1314.com/2016/07/31/python%E7%9A%84%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%8E%A9%E6%A8%A1%E5%9D%97wordcloud/)
-[**³ÌĞòµÄÔ´ÂëÏÂÔØµØÖ·**](
-https://github.com/fyuanfen/wordcloud)
+[pythonå¥½ç©çš„è¯äº‘wordcloud](http://zyy1314.com/2016/07/31/python%E7%9A%84%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%8E%A9%E6%A8%A1%E5%9D%97wordcloud/)
