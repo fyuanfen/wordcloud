@@ -68,4 +68,4 @@ cd word_cloud-master
 
 
 # Reference:
-[python好玩的词云wordcloud](http://zyy1314.com/2016/07/31/python%E7%9A%84%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%8E%A9%E6%A8%A1%E5%9D%97wordcloud/)
+[python好玩的词云wordcloud](http://www.zyy1217.com/2016/07/31/python%E7%9A%84%E5%A5%BD%E7%8E%A9%E6%A8%A1%E5%9D%97wordcloud/)
